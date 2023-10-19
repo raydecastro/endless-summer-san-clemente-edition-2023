@@ -1,1 +1,1 @@
-# endless-summer-san-clemente-edition-2023
+# endless-summer-san-clemente-surf-trip-2023
