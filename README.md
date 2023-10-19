@@ -56,3 +56,7 @@ Destination will be on the right
 - Destination: 
 225 Avenida Calafia
 San Clemente, CA 92672
+
+## More Info:
+[Brochure](https://github.com/raydecastro/endless-summer-san-clemente-surf-trip-2023/blob/main/SanClementeStateBeach_Brochure.pdf)
+[Campgrounds](https://github.com/raydecastro/endless-summer-san-clemente-surf-trip-2023/blob/main/SanClementeStateBeach_CampGrounds.pdf)
